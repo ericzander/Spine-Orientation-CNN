@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Misc
+ANN-search/
+CNN-search/
+SpinalScans16images
+test_4K_images
